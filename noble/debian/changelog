@@ -1,3 +1,9 @@
+gz-launch7 (7.1.0-1~noble) noble; urgency=medium
+
+  * gz-launch7 7.1.0-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Mon, 13 May 2024 20:08:38 +0200
+
 gz-launch7 (7.0.0-1~noble) noble; urgency=medium
 
   * gz-launch7 7.0.0-1 release
